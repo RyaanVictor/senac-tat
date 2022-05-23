@@ -1,0 +1,21 @@
+Configurações
+		Code Spell Checker
+			C Spell: Enabled Language Ids: 
+				Adicionar Item: shellscript
+			C Spell: Language: en,pt,pt-BR
+			C Spell: Max Duplicate Problems: 5000
+			C Spell: Max Number Of Problems: 100000
+		Editor
+			Editor: Tab Size: 4
+			Editor: Detect Indentation: False (Off)
+			Editor: Insert Spaces: False (Off)
+		Files
+			Files: Eol: \n (LF)
+      
+      git clone (clonar um repositótio remoto)
+	git pull  ( Atualizar o repositótio local)
+	
+	git config --global user.name (Usuário de Comint)
+	git config --global user.email ( Usuário de Acesso)
+	git config --list              ( listar as Configurações)
+	
